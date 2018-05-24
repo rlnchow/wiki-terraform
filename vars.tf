@@ -15,7 +15,7 @@ variable "LOCATION_PRIVATE_KEY" {
   default = "terraform.key"
 }
 variable "LOCATION_PUBLIC_KEY" {
-  default = "terraform.pub"
+  default = "terraform.pub.key"
 }
 
 # Information about instance type
